@@ -126,7 +126,7 @@
 >
 ><img src="Assets/Journal-Images/Screenshot-2026-11-22-160314.png" alt="Joural Entry 8c" width="500">
 >
-><img src="Assets/" alt="Joural Entry 8d" width="500">
+><img src="Assets/Screenshot-2026-11-22-074234.png" alt="Joural Entry 8d" width="500">
 >
 
 >**Summary:**<br>

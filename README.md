@@ -37,7 +37,7 @@ Carbon Deck is a custom keypad with 9 keys featuring Cherry MX Red switches, whi
 
 7. Rendered image of the PCB
 
-   <img src="Assets/" alt="Rendered image of the PCB" width="550">
+   <img src="Assets/Screenshot-2026-11-22-074234.png" alt="Rendered image of the PCB" width="550">
    <br><br>
 
 ## Repository Structure
