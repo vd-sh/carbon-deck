@@ -5,7 +5,7 @@ Carbon Deck is a custom keypad with nine keys.
 Carbon Deck is a custom keypad with 9 keys featuring Cherry MX Red switches, white translucent keycaps, a rotary encoder, an OLED display, a custom-designed PCB, and an epoxy resin transparent body made using a mold. The purpose of making this is to have quick access to some key combinations and separate W-A-S-D key controls, as reflected in the [firmware](Firmware/main.py). Carbon Deck is made from scratch using KiCAD, Onshape, and VS Code.
 
 ## Project Glimpse
-1. PCB Schematic in KiCAD
+1. PCB schematic in KiCAD
 
    <img src="Assets/Screenshot-2026-11-21-155220.png" alt="PCB Schematic in KiCAD" width="550">
    <br><br>
@@ -33,6 +33,11 @@ Carbon Deck is a custom keypad with 9 keys featuring Cherry MX Red switches, whi
 6. main.py in Code
 
    <img src="Assets/Screenshot-2026-11-22-113725.png" alt="main.py in Code" width="550">
+   <br><br>
+
+7. Rendered image of the PCB
+
+   <img src="Assets/" alt="Rendered image of the PCB" width="550">
    <br><br>
 
 ## Repository Structure
