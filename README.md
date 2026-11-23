@@ -40,6 +40,9 @@ Carbon Deck is a custom keypad with 9 keys featuring Cherry MX Red switches, whi
    <img src="Assets/Screenshot-2026-11-22-074234.png" alt="Rendered image of the PCB" width="550">
    <br><br>
 
+## Why epoxy resin body?
+100% epoxy resin body will be totally transparent and look very cool rather than generic 3D printed enclosure. Note: The CAD model designed is not a case for the keypad and just a mold in which the PCB is to be placed. Later, pouring the epoxy mix and letting it cure. Once, it cures the mold is to be removed and discarded. Now, what remains is our clean transparent keypad.
+
 ## Repository Structure
 ```text
 carbon-deck/
@@ -81,10 +84,10 @@ CAUTION:
 - Before pouring in the mix, make sure all of your components work properly. After soldering them on the board.
 - Do not pour too much of the mix in the mold so that it compromises the ability or totally disables the functionality of the key switches. (Cherry MX switches have springs which may get stuck due to hardening of epoxy)
 - Make sure that the Type-C female port of the microcontroller doesn't get filled with epoxy, resulting in damage to it.
-- Overall, you have to be careful with every component; while epoxy resin transparent body looks awesome, it has risks of damaging the components if not handled carefully. Skip the epoxy method if you are unsure of your capabilities in making it work, and try making an enclosure for it.
+- Overall, you have to be careful with every component; while epoxy resin transparent body looks awesome, it has risks of damaging the components if not handled carefully. Skip the epoxy method if you are unsure about making it work, and try making an enclosure for it.
 
 15. Wait and give enough time for the epoxy to cure. Break and peel off the mold once it cures.
-16. Hurray! You have a working, awesome, transparent keypad.
+16. Hurray! You have a working, awesome, transparent keypad!!
 
 ## Fabrication Specs
 1. 3D Print:
